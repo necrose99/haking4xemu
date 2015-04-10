@@ -11,7 +11,7 @@ inherit versionator distutils-r1 git-r3
 DESCRIPTION="A tool designed to extract timestamps from various files found on a typical computer system(s) and aggregate them."
 HOMEPAGE="https://github.com/log2timeleine/plaso/"
 SRC_URI=""
-EGIT_REPO_URI="https://github.com/log2timeline/plaso/"
+EGIT_REPO_URI="https://github.com/log2timeline/${PN}"
 
 LICENSE="Apache-2"
 SLOT="0"
