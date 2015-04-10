@@ -6,7 +6,7 @@ EAPI=5
 
 PYTHON_COMPAT=( python2_7 )
 
-inherit versionator distutils-r1 git-2
+inherit versionator distutils-r1 git-r3
 
 DESCRIPTION="A tool designed to extract timestamps from various files found on a typical computer system(s) and aggregate them."
 HOMEPAGE="https://github.com/log2timeleine/plaso/"
