@@ -7,9 +7,9 @@ EAPI=5
 inherit perl-module git-2
 
 DESCRIPTION="Log2timeline super timeline tool"
-HOMEPAGE="http://code.google.com/p/log2timeline/"
+HOMEPAGE="https://github.com/log2timeline/"
 SRC_URI=""
-EGIT_REPO_URI="https://code.google.com/p/log2timeline/"
+EGIT_REPO_URI="https://github.com/log2timeline/${PN}""
 
 LICENSE="GPL3"
 SLOT="0"
